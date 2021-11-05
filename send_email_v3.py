@@ -32,7 +32,7 @@ def send_email():
                 smtp.ehlo()
 
                 #smtp.login(EMAIL, PASSWORD)
-                smtp.login('support@netconamericas.com', 'Netcon@2021!')
+                smtp.login('xxx', 'xxx')
 
                 #subject ='PYTHON EMAIL SENDER TEST'
                 #body = 'TESTING ON HOW TO SEND EMAILS WITH PYTHON!!'
